@@ -1,4 +1,4 @@
-
+# Author: Yogesh Joshi.
 # REQUIRED DICTIONARY.
 # Three letter code as Keys and One Letter codes as values.
 one_letter ={'VAL':'V', 'ILE':'I', 'LEU':'L', 'GLU':'E', 'GLN':'Q', \
